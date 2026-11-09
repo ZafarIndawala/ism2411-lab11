@@ -1,3 +1,14 @@
+# Reflection
+#
+# 1. .get() vs. bracket notation:
+# (Sentence 1: When would you use bracket notation in real work?)
+# (Sentence 2: When would you use .get()?)
+# (Optional sentence 3: What's your rule of thumb for choosing?)
+#
+# 2. The summary dictionary pattern (Exercise 8):
+# (Sentence 1: What does this remind you of from Excel?)
+# (Sentence 2: Why might the Python version work better for large datasets?)
+
 # customers.py
 # Author: Zafar Indawala
 # #ISM2411 Lab 11 - Customer Dictionary and Lookup
